@@ -1,0 +1,5 @@
+{
+  "default_input_path": "data/sample_input.json",
+  "default_output_path": "data/sample_output.json",
+  "log_level": "INFO"
+}
