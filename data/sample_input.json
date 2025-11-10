@@ -1,0 +1,125 @@
+{
+  "items": [
+    {
+      "id": "3704369793481571024",
+      "code": "DNokLNZJ_rQ",
+      "fbid": "18075170683960581",
+      "media_type": 2,
+      "product_type": "story",
+      "taken_at": 1755815264,
+      "expiring_at": 1755901664,
+      "video_url": "https://example.cdninstagram.com/video1.mp4",
+      "video_duration": 57.603,
+      "video_codec": "avc1.64001f",
+      "thumbnail_url": "https://example.cdninstagram.com/thumb1.jpg",
+      "has_audio": true,
+      "original_width": 1080,
+      "original_height": 1920,
+      "user": {
+        "username": "joshlyons.sales",
+        "full_name": "Josh Lyons",
+        "id": "17336440679",
+        "is_verified": true,
+        "is_private": false,
+        "profile_pic_url": "https://example.cdninstagram.com/profile1.jpg"
+      },
+      "can_reply": true,
+      "can_reshare": true,
+      "can_save": true,
+      "supports_reel_reactions": true,
+      "creative_config": {
+        "camera_facing": "front",
+        "capture_type": "normal",
+        "effect_ids": [442777487856814]
+      },
+      "filter_type": 813,
+      "crosspost": ["FB", "IG"],
+      "caption": {
+        "text": "First story example"
+      },
+      "tagged_users": [
+        {
+          "username": "another.user",
+          "id": "1234567890"
+        }
+      ],
+      "video_versions": [
+        {
+          "url": "https://example.cdninstagram.com/video1_360p.mp4",
+          "width": 480,
+          "height": 852,
+          "type": "mp4",
+          "id": "v1"
+        },
+        {
+          "url": "https://example.cdninstagram.com/video1_720p.mp4",
+          "width": 720,
+          "height": 1280,
+          "type": "mp4",
+          "id": "v2"
+        }
+      ],
+      "image_versions2": {
+        "candidates": [
+          {
+            "url": "https://example.cdninstagram.com/image1_low.jpg",
+            "width": 360,
+            "height": 640
+          },
+          {
+            "url": "https://example.cdninstagram.com/image1_high.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ]
+      }
+    },
+    {
+      "id": "3704369793481571025",
+      "code": "DNokLNZJ_rR",
+      "fbid": "18075170683960582",
+      "media_type": 1,
+      "product_type": "story",
+      "taken_at": 1755818864,
+      "thumbnail_url": "https://example.cdninstagram.com/thumb2.jpg",
+      "has_audio": false,
+      "original_width": 1080,
+      "original_height": 1920,
+      "user": {
+        "username": "joshlyons.sales",
+        "full_name": "Josh Lyons",
+        "id": "17336440679",
+        "is_verified": true,
+        "is_private": false,
+        "profile_pic_url": "https://example.cdninstagram.com/profile1.jpg"
+      },
+      "can_reply": true,
+      "can_reshare": true,
+      "can_save": true,
+      "supports_reel_reactions": true,
+      "creative_config": {
+        "camera_facing": "back",
+        "capture_type": "normal",
+        "effect_ids": []
+      },
+      "filter_type": 101,
+      "crosspost": [
+        "IG"
+      ],
+      "caption": "Second story, image only",
+      "tagged_users": [],
+      "image_versions": [
+        {
+          "url": "https://example.cdninstagram.com/image2_low.jpg",
+          "width": 360,
+          "height": 640
+        },
+        {
+          "url": "https://example.cdninstagram.com/image2_high.jpg",
+          "width": 1080,
+          "height": 1920
+        }
+      ]
+    }
+  ]
+}
